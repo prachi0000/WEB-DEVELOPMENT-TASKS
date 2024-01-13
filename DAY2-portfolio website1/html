@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Your Name - Portfolio</title>
+</head>
+<body>
+
+    <header>
+        <h1>Prachi Sharma</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello, I'm Prachi sharma, a passionate web developer with experience in creating modern and responsive websites.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>core java</li>
+            <li>DSA</li>
+            <li>DBMS</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Pharmacy management System</h3>
+            <p>a pharmacy management system is a platform that digitizes workflows and functionalities in pharmacies. </p>
+        </div>
+        <div class="project">
+            <h3>travel and tourism management System</h3>
+            <p>This project “TRAVEL AND TOURISM MANAGEMENT” is used to automate all process of the
+                travel and tourism, which deals with creation, booking and confirmation and user details</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: prachisharma730@gmail.com</p>
+        <p>LinkedIn: www.linkedin.com/in/prachi-sharma-51b441258</p>
+        <p>GitHub:https://github.com/prachi0000</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Prachi sharma. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
